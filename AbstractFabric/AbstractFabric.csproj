@@ -53,6 +53,7 @@
     <Compile Include="USMoney.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="output\output.txt" />
     <Content Include="ProductsItems\products.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

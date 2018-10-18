@@ -1,0 +1,10 @@
+﻿1	apple	Poland	10.18.2018	230.01
+2	car	Volvo	10.18.2018	50,450.00
+3	sugar	Radekh	10.18.2018	100.70
+4	apple	Poland	10.18.2018	230.03
+5	apple	Poland	10.18.2018	230.98
+6	apple	Poland	10.18.2018	230.00
+7	apple	Poland	10.18.2018	230.00
+8	apple	Poland	10.18.2018	230.00
+9	apple	Poland	10.18.2018	230.00
+

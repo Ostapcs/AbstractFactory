@@ -1,9 +1,5 @@
-1 apple 230,01 Poland
-2 car 50450 BMW
-3 sugar 100,7 Radekh
-4 apple 230,03 Poland
-5 apple 230,98 Poland
-6 apple 230 Poland
-7 apple 230 Poland
-8 apple 230 Poland
-9 apple 230 Poland
+100 Apple 230,01 Poland 02/12/2018
+200 Orange 5000 Egypt 03/11/2018
+300 Carrot 32566,50 Hungary 08/08/2018
+400 Potato 12000 Belarus 13/07/2018
+500 Tomato 3228,45 Kherson 25/04/2018

@@ -7,7 +7,8 @@ namespace AbstractFabric
     {
         public override string GetDate(DateTime date)
         {
-            return date.Day.ToString() +"." + date.Month.ToString()+"." + date.Year.ToString() ; 
+            return date.ToString("dd.MM.yyyy");
+            
         }
     }
 }

@@ -12,6 +12,9 @@
         <e p="Client.cs" t="Include" />
         <e p="Money.cs" t="Include" />
         <e p="obj" t="ExcludeRecursive" />
+        <e p="output" t="Include">
+          <e p="output.txt" t="Include" />
+        </e>
         <e p="Product.cs" t="Include" />
         <e p="ProductsItems" t="Include">
           <e p="products.txt" t="Include" />
