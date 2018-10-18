@@ -1,0 +1,6 @@
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/bin/Debug/AbstractFabric.exe
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/bin/Debug/AbstractFabric.pdb
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/obj/Debug/AbstractFabric.csprojAssemblyReference.cache
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/obj/Debug/AbstractFabric.csproj.CoreCompileInputs.cache
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/obj/Debug/AbstractFabric.exe
+/Users/ostapkutyanskij/RiderProjects/AbstractFabric/AbstractFabric/obj/Debug/AbstractFabric.pdb
